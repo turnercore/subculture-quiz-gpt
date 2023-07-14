@@ -1,0 +1,996 @@
+[
+    {
+      "question": "How do you prefer to spend your free time?",
+      "answers": [
+        {
+          "Exploring historical sites and museums.": {
+            "steampunk": 2,
+            "cosplay": 1,
+            "lolita": 1,
+            "dark academia": 3,
+            "beatniks": 2,
+            "mods": 1,
+            "new romantics": 1,
+            "teddy boys/girls": 1,
+            "intentional communities": -1
+          }
+        },
+        {
+          "Engaging in outdoor activities like camping, hiking, or foraging.": {
+            "biohackers": 1,
+            "freegans": 2,
+            "urban explorers": 3,
+            "bushcrafters": 3,
+            "train hoppers": 2,
+            "urban farmers": 2,
+            "dumpster divers": 2,
+            "storm chasers": 1,
+            "highpointers": 3,
+            "off-grid living": 2,
+            "perpetual travelers": 1
+          }
+        },
+        {
+          "Attending concerts, festivals, or other music-related events.": {
+            "furries": 1,
+            "goth": 2,
+            "juggalos": 3,
+            "seapunk": 2,
+            "health goths": 1,
+            "techno-shamans": 2,
+            "psychobillies": 3,
+            "cybergoths": 1,
+            "rude boys/girls": 2,
+            "rockers": 3,
+            "punks": 2,
+            "parrotheads": 1
+          }
+        },
+        {
+          "Reading, writing, or engaging in other solitary activites.": {
+            "hikikomori": 3,
+            "otherkin": 1,
+            "idlers": 2,
+            "dark academia": 2,
+            "emos": 1,
+            "otaku": 2,
+            "memory athletes": 3,
+            "transhumanists": 1,
+            "coders": 2,
+            "objectivists": 1,
+            "doomsday preppers": -1
+          }
+        },
+        {
+          "Participating in online communities, gaming, or other digital activities.": {
+            "e-girls/e-boys": 3,
+            "bronies": 2,
+            "trekkies": 1,
+            "cosplayers": 1,
+            "larpers": 1,
+            "digital nomads": 2,
+            "makers": 1,
+            "hackers": 3,
+            "time lords": 2,
+            "silicon valley bros/bras": 3
+          }
+        }
+      ]
+    },
+    {
+      "question": "What type of clothing or fashion are you most drawn to?",
+      "answers": [
+        {
+          "Vintage or historical styles.": {
+            "steampunk": 3,
+            "lolita": 3,
+            "dark academia": 2,
+            "teddy boys/girls": 2,
+            "mods": 1,
+            "new romantics": 2,
+            "beatniks": -1
+          }
+        },
+        {
+          "Casual, comfortable, and practical.": {
+            "freegans": 2,
+            "urban explorers": 1,
+            "bushcrafters": 2,
+            "train hoppers": 3,
+            "urban farmers": 2,
+            "dumpster divers": 3,
+            "highpointers": 2,
+            "off-grid living": 3,
+            "perpetual travelers": 2,
+            "idlers": 1
+          }
+        },
+        {
+          "Bold, colorful, and unconventional.": {
+            "furries": 3,
+            "cosplay": 2,
+            "juggalos": 3,
+            "seapunk": 3,
+            "health goths": -1,
+            "techno-shamans": 2,
+            "psychobillies": 2,
+            "cybergoths": 3,
+            "rude boys/girls": 1,
+            "rockers": -1,
+            "punks": 2,
+            "parrotheads": 3,
+            "e-girls/e-boys": 2
+          }
+        },
+        {
+          "Elegant, sophisticated, and classy.": {
+            "hikikomori": -1,
+            "otherkin": -1,
+            "dark academia": 3,
+            "emos": -1,
+            "otaku": 1,
+            "memory athletes": -1,
+            "transhumanists": -1,
+            "coders": -1,
+            "objectivists": 1,
+            "doomsday preppers": -1,
+            "silicon valley bros/bras": 2
+          }
+        },
+        {
+          "Unique, expressive, and creative.": {
+            "bronies": 2,
+            "trekkies": 1,
+            "cosplayers": 3,
+            "larpers": 3,
+            "digital nomads": 1,
+            "makers": 2,
+            "hackers": 1,
+            "time lords": 2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Which of the following best describes your ideal living situation?",
+      "answers": [
+        {
+          "In a bustling city full of history and culture.": {
+            "steampunk": 2,
+            "cosplay": 1,
+            "lolita": 1,
+            "dark academia": 3,
+            "beatniks": 2,
+            "mods": 3,
+            "new romantics": 2,
+            "teddy boys/girls": 1,
+            "intentional communities": -1,
+            "e-girls/e-boys": 2,
+            "silicon valley bros/bras": 3
+          }
+        },
+        {
+          "In the wilderness, surrounded by nature.": {
+            "biohackers": 1,
+            "freegans": 3,
+            "urban explorers": -1,
+            "bushcrafters": 3,
+            "train hoppers": 2,
+            "urban farmers": 1,
+            "dumpster divers": 2,
+            "storm chasers": 1,
+            "highpointers": 2,
+            "off-grid living": 3,
+            "perpetual travelers": 1,
+            "idlers": 1
+          }
+        },
+        {
+          "In a vibrant and lively music or arts scene.": {
+            "furries": 1,
+            "goth": 2,
+            "juggalos": 3,
+            "seapunk": 3,
+            "health goths": 1,
+            "techno-shamans": 2,
+            "psychobillies": 3,
+            "cybergoths": 1,
+            "rude boys/girls": 3,
+            "rockers": 3,
+            "punks": 2,
+            "parrotheads": 3
+          }
+        },
+        {
+          "In a quiet, peaceful place where I can be alone.": {
+            "hikikomori": 3,
+            "otherkin": 2,
+            "idlers": 2,
+            "dark academia": 1,
+            "emos": 2,
+            "otaku": 1,
+            "memory athletes": -1,
+            "transhumanists": 1,
+            "coders": 1,
+            "objectivists": -1,
+            "doomsday preppers": 2
+          }
+        },
+        {
+          "In a digital space, interacting with others online.": {
+            "e-girls/e-boys": 3,
+            "bronies": 3,
+            "trekkies": 2,
+            "cosplayers": 1,
+            "larpers": 1,
+            "digital nomads": 3,
+            "makers": 1,
+            "hackers": 3,
+            "time lords": 2
+          }
+        }
+      ]
+    },
+    {
+      "question": "What kind of work or activities do you find most fulfilling?",
+      "answers": [
+        {
+          "Creating or building things with my hands.": {
+            "steampunk": 2,
+            "cosplay": 3,
+            "lolita": 1,
+            "dark academia": 1,
+            "beatniks": 1,
+            "mods": 1,
+            "new romantics": 1,
+            "teddy boys/girls": 1,
+            "intentional communities": 1,
+            "makers": 3,
+            "hackers": 2
+          }
+        },
+        {
+          "Exploring and discovering new places or ideas.": {
+            "biohackers": 2,
+            "freegans": 1,
+            "urban explorers": 3,
+            "bushcrafters": 2,
+            "train hoppers": 3,
+            "urban farmers": 1,
+            "dumpster divers": 1,
+            "storm chasers": 3,
+            "highpointers": 3,
+            "off-grid living": 1,
+            "perpetual travelers": 3,
+            "digital nomads": 2
+          }
+        },
+        {
+          "Engaging with music, art, or other forms of creative expression.": {
+            "furries": 1,
+            "goth": 3,
+            "juggalos": 2,
+            "seapunk": 3,
+            "health goths": 1,
+            "techno-shamans": 2,
+            "psychobillies": 3,
+            "cybergoths": 2,
+            "rude boys/girls": 3,
+            "rockers": 3,
+            "punks": 2,
+            "parrotheads": 3
+          }
+        },
+        {
+          "Studying, learning, or pursuing knowledge.": {
+            "hikikomori": 1,
+            "otherkin": 1,
+            "idlers": 1,
+            "dark academia": 3,
+            "emos": 1,
+            "otaku": 2,
+            "memory athletes": 3,
+            "transhumanists": 2,
+            "coders": 3,
+            "objectivists": 2,
+            "doomsday preppers": 1
+          }
+        },
+        {
+          "Interacting with a community or network of people online.": {
+            "e-girls/e-boys": 3,
+            "bronies": 3,
+            "trekkies": 2,
+            "cosplayers": 2,
+            "larpers": 1,
+            "digital nomads": 1,
+            "makers": 1,
+            "hackers": 2,
+            "time lords": 1,
+            "silicon valley bros/bras": 3
+          }
+        }
+      ]
+    },
+    {
+      "question": "What is your preferred environment?",
+      "answers": [
+        {
+          "Urban settings, bustling with activity and people.": {
+            "steampunk": 1,
+            "cosplay": 2,
+            "lolita": 1,
+            "dark academia": 2,
+            "beatniks": 3,
+            "mods": 3,
+            "new romantics": 2,
+            "teddy boys/girls": 3,
+            "intentional communities": 1,
+            "urban explorers": 3,
+            "urban farmers": 3,
+            "e-girls/e-boys": 3,
+            "bronies": 1,
+            "trekkies": 1,
+            "cosplayers": 2,
+            "larpers": 1,
+            "digital nomads": 2,
+            "makers": 1,
+            "hackers": 2,
+            "time lords": 1,
+            "silicon valley bros/bras": 3
+          }
+        },
+        {
+          "Natural landscapes, away from the hustle and bustle.": {
+            "biohackers": 2,
+            "freegans": 3,
+            "bushcrafters": 3,
+            "train hoppers": 2,
+            "dumpster divers": 2,
+            "storm chasers": 1,
+            "highpointers": 3,
+            "off-grid living": 3,
+            "perpetual travelers": 2,
+            "hikikomori": 1,
+            "otherkin": 1,
+            "idlers": 2,
+            "doomsday preppers": 3
+          }
+        },
+        {
+          "A quiet, cozy place where I can focus on my interests.": {
+            "furries": 1,
+            "goth": 2,
+            "juggalos": 1,
+            "seapunk": 1,
+            "health goths": 2,
+            "techno-shamans": 1,
+            "psychobillies": 1,
+            "cybergoths": 2,
+            "rude boys/girls": 1,
+            "rockers": 1,
+            "punks": 2,
+            "parrotheads": 1,
+            "otaku": 3,
+            "memory athletes": 3,
+            "transhumanists": 2,
+            "coders": 3,
+            "objectivists": 3
+          }
+        },
+        {
+          "A place full of history and culture.": {
+            "steampunk": 3,
+            "cosplay": 1,
+            "lolita": 2,
+            "dark academia": 3,
+            "beatniks": 2,
+            "mods": 1,
+            "new romantics": 3,
+            "teddy boys/girls": 2,
+            "intentional communities": 2,
+            "urban explorers": 2,
+            "urban farmers": 1,
+            "e-girls/e-boys": 1,
+            "bronies": 2,
+            "trekkies": 3,
+            "cosplayers": 3,
+            "larpers": 2,
+            "digital nomads": 1,
+            "makers": 2,
+            "hackers": 1,
+            "time lords": 3,
+            "silicon valley bros/bras": 1
+          }
+        },
+        {
+          "A place where I can constantly experience new things.": {
+            "biohackers": 3,
+            "freegans": 1,
+            "urban explorers": 1,
+            "bushcrafters": 1,
+            "train hoppers": 3,
+            "dumpster divers": 1,
+            "storm chasers": 3,
+            "highpointers": 2,
+            "off-grid living": 1,
+            "perpetual travelers": 3,
+            "furries": 3,
+            "goth": 1,
+            "juggalos": 3,
+            "seapunk": 3,
+            "health goths": 1,
+            "techno-shamans": 3,
+            "psychobillies": 2,
+            "cybergoths": 3,
+            "rude boys/girls": 3,
+            "rockers": 2,
+            "punks": 3,
+            "parrotheads": 3
+          }
+        }
+      ]
+    },
+    {
+      "question": "What type of art do you appreciate the most?",
+      "answers": [
+        {
+          "Classic and historical art.": {
+            "steampunk": 2,
+            "cosplay": 1,
+            "lolita": 2,
+            "dark academia": 3,
+            "beatniks": 3,
+            "mods": 1,
+            "new romantics": 2,
+            "teddy boys/girls": 1,
+            "intentional communities": 1,
+            "hikikomori": 2,
+            "otherkin": 1,
+            "idlers": 2,
+            "otaku": 1,
+            "memory athletes": 1,
+            "transhumanists": 1,
+            "coders": 1,
+            "objectivists": 2,
+            "doomsday preppers": 1
+          }
+        },
+        {
+          "Modern and contemporary art.": {
+            "biohackers": 2,
+            "freegans": 1,
+            "urban explorers": 2,
+            "bushcrafters": 1,
+            "train hoppers": 1,
+            "urban farmers": 2,
+            "dumpster divers": 1,
+            "storm chasers": 1,
+            "highpointers": 1,
+            "off-grid living": 1,
+            "perpetual travelers": 2,
+            "e-girls/e-boys": 3,
+            "bronies": 2,
+            "trekkies": 1,
+            "cosplayers": 2,
+            "larpers": 1,
+            "digital nomads": 3,
+            "makers": 2,
+            "hackers": 3,
+            "time lords": 2,
+            "silicon valley bros/bras": 3
+          }
+        },
+        {
+          "Street and urban art.": {
+            "furries": 1,
+            "goth": 2,
+            "juggalos": 3,
+            "seapunk": 2,
+            "health goths": 1,
+            "techno-shamans": 2,
+            "psychobillies": 3,
+            "cybergoths": 1,
+            "rude boys/girls": 2,
+            "rockers": 3,
+            "punks": 2,
+            "parrotheads": 1
+          }
+        },
+        {
+          "Digital and multimedia art.": {
+            "e-girls/e-boys": 3,
+            "bronies": 2,
+            "trekkies": 3,
+            "cosplayers": 2,
+            "larpers": 1,
+            "digital nomads": 3,
+            "makers": 3,
+            "hackers": 3,
+            "time lords": 3,
+            "silicon valley bros/bras": 2
+          }
+        },
+        {
+          "I'm not particularly interested in art.": {
+            "biohackers": -1,
+            "freegans": -1,
+            "urban explorers": -1,
+            "bushcrafters": -1,
+            "train hoppers": -1,
+            "urban farmers": -1,
+            "dumpster divers": -1,
+            "storm chasers": -1,
+            "highpointers": -1,
+            "off-grid living": -1,
+            "perpetual travelers": -1,
+            "hikikomori": -1,
+            "otherkin": -1,
+            "idlers": -1,
+            "doomsday preppers": -1
+          }
+        }
+      ]
+    },
+    {
+      "question": "What type of music do you prefer?",
+      "answers": [
+        {
+          "Classical and instrumental music.": {
+            "steampunk": 2,
+            "cosplay": 1,
+            "lolita": 2,
+            "dark academia": 3,
+            "beatniks": 3,
+            "mods": 1,
+            "new romantics": 2,
+            "teddy boys/girls": 1,
+            "intentional communities": 1,
+            "hikikomori": 2,
+            "otherkin": 1,
+            "idlers": 2,
+            "otaku": 1,
+            "memory athletes": 1,
+            "transhumanists": 1,
+            "coders": 1,
+            "objectivists": 2,
+            "doomsday preppers": 1
+          }
+        },
+        {
+          "Rock and alternative music.": {
+            "biohackers": 2,
+            "freegans": 1,
+            "urban explorers": 2,
+            "bushcrafters": 1,
+            "train hoppers": 1,
+            "urban farmers": 2,
+            "dumpster divers": 1,
+            "storm chasers": 1,
+            "highpointers": 1,
+            "off-grid living": 1,
+            "perpetual travelers": 2,
+            "e-girls/e-boys": 3,
+            "bronies": 2,
+            "trekkies": 1,
+            "cosplayers": 2,
+            "larpers": 1,
+            "digital nomads": 3,
+            "makers": 2,
+            "hackers": 3,
+            "time lords": 2,
+            "silicon valley bros/bras": 3
+          }
+        },
+        {
+          "Pop and electronic music.": {
+            "furries": 1,
+            "goth": 2,
+            "juggalos": 3,
+            "seapunk": 2,
+            "health goths": 1,
+            "techno-shamans": 2,
+            "psychobillies": 3,
+            "cybergoths": 1,
+            "rude boys/girls": 2,
+            "rockers": 3,
+            "punks": 2,
+            "parrotheads": 1
+          }
+        },
+        {
+          "Country, folk, and blues music.": {
+            "e-girls/e-boys": 3,
+            "bronies": 2,
+            "trekkies": 3,
+            "cosplayers": 2,
+            "larpers": 1,
+            "digital nomads": 3,
+            "makers": 3,
+            "hackers": 3,
+            "time lords": 3,
+            "silicon valley bros/bras": 2
+          }
+        },
+        {
+          "I'm not particularly interested in music.": {
+            "biohackers": -1,
+            "freegans": -1,
+            "urban explorers": -1,
+            "bushcrafters": -1,
+            "train hoppers": -1,
+            "urban farmers": -1,
+            "dumpster divers": -1,
+            "storm chasers": -1,
+            "highpointers": -1,
+            "off-grid living": -1,
+            "perpetual travelers": -1,
+            "hikikomori": -1,
+            "otherkin": -1,
+            "idlers": -1,
+            "doomsday preppers": -1
+          }
+        }
+      ]
+    },
+    {
+      "question": "What type of movies or TV shows do you prefer?",
+      "answers": [
+        {
+          "Historical dramas or documentaries.": {
+            "steampunk": 2,
+            "cosplay": 1,
+            "lolita": 2,
+            "dark academia": 3,
+            "beatniks": 3,
+            "mods": 1,
+            "new romantics": 2,
+            "teddy boys/girls": 1,
+            "intentional communities": 1,
+            "hikikomori": 2,
+            "otherkin": 1,
+            "idlers": 2,
+            "otaku": 1,
+            "memory athletes": 1,
+            "transhumanists": 1,
+            "coders": 1,
+            "objectivists": 2,
+            "doomsday preppers": 1
+          }
+        },
+        {
+          "Action, adventure, or fantasy movies.": {
+            "biohackers": 2,
+            "freegans": 1,
+            "urban explorers": 2,
+            "bushcrafters": 1,
+            "train hoppers": 1,
+            "urban farmers": 2,
+            "dumpster divers": 1,
+            "storm chasers": 1,
+            "highpointers": 1,
+            "off-grid living": 1,
+            "perpetual travelers": 2,
+            "e-girls/e-boys": 3,
+            "bronies": 2,
+            "trekkies": 3,
+            "cosplayers": 3,
+            "larpers": 3,
+            "digital nomads": 3,
+            "makers": 2,
+            "hackers": 3,
+            "time lords": 3,
+            "silicon valley bros/bras": 3
+          }
+        },
+        {
+          "Horror, thriller, or mystery movies.": {
+            "furries": 1,
+            "goth": 3,
+            "juggalos": 2,
+            "seapunk": 1,
+            "health goths": 2,
+            "techno-shamans": 1,
+            "psychobillies": 2,
+            "cybergoths": 3,
+            "rude boys/girls": 1,
+            "rockers": 2,
+            "punks": 3,
+            "parrotheads": 1
+          }
+        },
+        {
+          "Comedies, rom-coms, or feel-good movies.": {
+            "e-girls/e-boys": 3,
+            "bronies": 2,
+            "trekkies": 1,
+            "cosplayers": 2,
+            "larpers": 1,
+            "digital nomads": 2,
+            "makers": 1,
+            "hackers": 1,
+            "time lords": 2,
+            "silicon valley bros/bras": 3
+          }
+        },
+        {
+          "I don't watch a lot of movies or TV shows.": {
+            "biohackers": -1,
+            "freegans": -1,
+            "urban explorers": -1,
+            "bushcrafters": -1,
+            "train hoppers": -1,
+            "urban farmers": -1,
+            "dumpster divers": -1,
+            "storm chasers": -1,
+            "highpointers": -1,
+            "off-grid living": -1,
+            "perpetual travelers": -1,
+            "hikikomori": -1,
+            "otherkin": -1,
+            "idlers": -1,
+            "doomsday preppers": -1
+          }
+        }
+      ]
+    },
+    {
+      "question": "What is your favorite breed of dog?",
+      "answers": [
+        {
+          "Labrador Retriever.": {
+            "biohackers": 1,
+            "freegans": 1,
+            "urban explorers": 1,
+            "bushcrafters": 2,
+            "train hoppers": 1,
+            "urban farmers": 2,
+            "dumpster divers": 1,
+            "storm chasers": 1,
+            "highpointers": 1,
+            "off-grid living": 2,
+            "perpetual travelers": 1
+          }
+        },
+        {
+          "German Shepherd.": {
+            "steampunk": 1,
+            "cosplay": 1,
+            "lolita": 1,
+            "dark academia": 1,
+            "beatniks": 1,
+            "mods": 1,
+            "new romantics": 1,
+            "teddy boys/girls": 1,
+            "intentional communities": 1
+          }
+        },
+        {
+          "Bulldog.": {
+            "furries": 1,
+            "goth": 1,
+            "juggalos": 2,
+            "seapunk": 1,
+            "health goths": 1,
+            "techno-shamans": 1,
+            "psychobillies": 2,
+            "cybergoths": 1,
+            "rude boys/girls": 2,
+            "rockers": 2,
+            "punks": 2,
+            "parrotheads": 1
+          }
+        },
+        {
+          "Poodle.": {
+            "e-girls/e-boys": 2,
+            "bronies": 1,
+            "trekkies": 1,
+            "cosplayers": 2,
+            "larpers": 1,
+            "digital nomads": 1,
+            "makers": 1,
+            "hackers": 1,
+            "time lords": 1,
+            "silicon valley bros/bras": 1
+          }
+        },
+        {
+          "I don't have a favorite breed.": {
+            "hikikomori": 1,
+            "otherkin": 1,
+            "idlers": 1,
+            "otaku": 1,
+            "memory athletes": 1,
+            "transhumanists": 1,
+            "coders": 1,
+            "objectivists": 1,
+            "doomsday preppers": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "What type of music do you prefer?",
+      "answers": [
+        {
+          "Rock and Roll.": {
+            "rockers": 3,
+            "punks": 2,
+            "psychobillies": 3,
+            "rude boys/girls": 2,
+            "mods": 2,
+            "new romantics": 1,
+            "beatniks": 1
+          }
+        },
+        {
+          "Electronic Dance Music (EDM).": {
+            "seapunk": 3,
+            "health goths": 2,
+            "techno-shamans": 3,
+            "cybergoths": 2,
+            "e-girls/e-boys": 2,
+            "digital nomads": 1,
+            "silicon valley bros/bras": 1
+          }
+        },
+        {
+          "Classical Music.": {
+            "dark academia": 3,
+            "steampunk": 2,
+            "lolita": 2,
+            "cosplay": 1,
+            "time lords": 1,
+            "transhumanists": 1
+          }
+        },
+        {
+          "Hip Hop/Rap.": {
+            "juggalos": 2,
+            "furries": 1,
+            "goth": 1,
+            "parrotheads": 1,
+            "urban explorers": 1,
+            "freegans": 1,
+            "biohackers": 1
+          }
+        },
+        {
+          "I enjoy all types of music.": {
+            "hikikomori": 1,
+            "otherkin": 1,
+            "idlers": 1,
+            "otaku": 1,
+            "memory athletes": 1,
+            "coders": 1,
+            "objectivists": 1,
+            "doomsday preppers": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "What is your favorite type of technology or gadget?",
+      "answers": [
+        {
+          "Smartphones and tablets.": {
+            "e-girls/e-boys": 3,
+            "digital nomads": 3,
+            "silicon valley bros/bras": 3,
+            "hackers": 2,
+            "coders": 2,
+            "transhumanists": 2,
+            "biohackers": 1
+          }
+        },
+        {
+          "Gaming consoles and PC setups.": {
+            "bronies": 3,
+            "trekkies": 2,
+            "cosplayers": 2,
+            "larpers": 2,
+            "otaku": 3,
+            "hikikomori": 2,
+            "time lords": 1
+          }
+        },
+        {
+          "Outdoor gear like camping equipment or survival tools.": {
+            "bushcrafters": 3,
+            "train hoppers": 3,
+            "urban explorers": 2,
+            "freegans": 2,
+            "dumpster divers": 2,
+            "off-grid living": 3,
+            "doomsday preppers": 3
+          }
+        },
+        {
+          "Music equipment like instruments, mixers, or DJ gear.": {
+            "rockers": 3,
+            "punks": 2,
+            "psychobillies": 3,
+            "rude boys/girls": 2,
+            "juggalos": 2,
+            "seapunk": 3,
+            "techno-shamans": 3
+          }
+        },
+        {
+          "I'm not really into technology or gadgets.": {
+            "idlers": 3,
+            "otherkin": 2,
+            "dark academia": 1,
+            "steampunk": -1,
+            "lolita": -1,
+            "cosplay": -1
+          }
+        }
+      ]
+    },
+    {
+      "question": "In a zombie apocalypse situation, what do you do?",
+      "answers": [
+        {
+          "Gather supplies and head for the hills.": {
+            "bushcrafters": 3,
+            "train hoppers": 3,
+            "urban explorers": 2,
+            "freegans": 2,
+            "dumpster divers": 2,
+            "off-grid living": 3,
+            "doomsday preppers": 3
+          }
+        },
+        {
+          "Barricade at home and defend it at all costs.": {
+            "steampunk": 2,
+            "cosplay": 1,
+            "lolita": 1,
+            "dark academia": 3,
+            "beatniks": 2,
+            "mods": 1,
+            "new romantics": 1,
+            "teddy boys/girls": 1
+          }
+        },
+        {
+          "Try to find a cure or solution.": {
+            "biohackers": 3,
+            "transhumanists": 3,
+            "coders": 2,
+            "hackers": 2,
+            "silicon valley bros/bras": 2,
+            "digital nomads": 1
+          }
+        },
+        {
+          "Join a group and contribute to the community.": {
+            "furries": 2,
+            "goth": 2,
+            "juggalos": 2,
+            "seapunk": 2,
+            "health goths": 2,
+            "techno-shamans": 2,
+            "psychobillies": 2,
+            "cybergoths": 2,
+            "rude boys/girls": 2,
+            "rockers": 2,
+            "punks": 2,
+            "parrotheads": 2
+          }
+        },
+        {
+          "I don't believe in zombie apocalypses.": {
+            "idlers": 3,
+            "otherkin": 2,
+            "hikikomori": 1,
+            "e-girls/e-boys": -1,
+            "bronies": -1,
+            "trekkies": -1
+          }
+        }
+      ]
+    }
+]
